@@ -1,2 +1,10 @@
 # Object-Tracking-yolov8-deep-sort
-Object tracking via yolov8 and deepsort
+
+# Create Environment
+conda create --prefix venv python=3.9
+
+# Activate Environment
+conda activate <environment path>
+
+# Install library
+pip install -r requirements.txt
